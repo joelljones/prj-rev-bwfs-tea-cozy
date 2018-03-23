@@ -2,6 +2,8 @@
 
 A fictional tea shop website.
 
-Design spec:
+- HTML and CSS.
+
+## Design spec:
 
 ![design spec](resources/images/img-tea-cozy-redline.jpg)
